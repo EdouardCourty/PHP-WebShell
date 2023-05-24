@@ -11,3 +11,7 @@ Breaking into a server or any kind of IT infrastructure without permission is pu
 - File downloading (download directories as zip files, files as they are)
 - Shell command executing with output
 - System resources monitoring
+
+### Screenshots
+
+<img src="https://raw.githubusercontent.com/EdouardCourty/PHP-WebShell/master/screenshots/home.png" alt="WebShell"/>
